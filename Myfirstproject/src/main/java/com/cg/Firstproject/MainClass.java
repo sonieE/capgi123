@@ -10,6 +10,6 @@ public class MainClass {
 	
 	public static void display()
 	{
-		System.out.println("Hello!");
+		System.out.println("Hello 1!");
 	}
 }
